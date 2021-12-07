@@ -101,6 +101,11 @@ p {
   font-weight:  400;
 }
 
+.alert {
+   color: #B31B1B;
+   text-transform: uppercase;
+}
+
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
